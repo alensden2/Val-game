@@ -18,6 +18,7 @@ public class Main {
         Valgame valgame= new Valgame();
         frame.add(valgame);
         frame.pack();
+        valgame.requestFocus();
         frame.setVisible(true);
     }
 }
