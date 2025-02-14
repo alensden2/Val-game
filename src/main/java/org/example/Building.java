@@ -16,7 +16,6 @@ public class Building {
         this.width = width;
         this.height = height;
         this.img = img;
-        this.passed = passed;
     }
 
 }
